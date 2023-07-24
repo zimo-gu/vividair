@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Discord Rules
-parent: Information
+parent: information
 nav_order: 1
 ---
 
@@ -14,7 +14,7 @@ nav_order: 1
 1. TOC
 {:toc}
 
-There are specific rules you must abide by, when chatting in the Islands Corporation discord server, to avoid punishments given out by our corporates.
+There are specific rules you must abide by, when chatting in the Vivid Airways discord server, to avoid punishments given out by our moderators.
 
 ## Rules
 {:toc}
