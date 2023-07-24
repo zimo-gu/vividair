@@ -14,7 +14,7 @@ nav_order: 3
 1. TOC
 {:toc}
 
-Tickets are used in Islands Corp to report various punishments, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
+Tickets are used in Vivid Airways to report various punishments, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
 
 **Note:**
 {:.text-red-000} 
@@ -27,7 +27,7 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Acceptable Reasons | 
 | ------ | 
 | Abuse of the warning, kick, or ban systems | 
-| Advertising in-game - SHIFT LEADER+ |
+| Advertising in-game - MIDDLE RANK+ |
 | Alternate account of a blacklisted or permanently banned player |
 | Announcement abuse | 
 | Bypassing or attempting to bypass | 
@@ -36,7 +36,7 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Claiming an HR rank after resigning or being reformed |
 | Clarification regarding a rule that can only be answered by a High Rank member |
 | Cuff abuse | 
-| Dancing/standing on elevated surfaces - SHIFT LEADER+ | 
+| Dancing/standing on the plane - MIDDLE RANK+ | 
 | Discrimination |
 | Encouragement of suicide or self-harm |
 | Exploiting, hacking, or glitching | 
@@ -48,10 +48,10 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Inappropriate roleplay or behavior | 
 | Issues with redeeming points or point issues |
 | Joking about serious topics | 
-| Lack of grammar - HIGH RANKS | 
+| Lack of grammar - STAFF MEMBERS | 
 | Leaking chats or confidential information |
 | Major death threats | 
-| Outdated information on an official Islands Corp source |
+| Outdated information on an official Vivid Airways source |
 | Playing inappropriate or loud audios | 
 | Playing with ranking guns or misusing them | 
 | Racism |
@@ -59,14 +59,14 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Rank transfers | 
 | Reclaiming a rank using old points after being demoted |
 | Reclaiming the same rank more than once |
-| Refusing to wear the correct uniform - SHIFT LEADER+ |
+| Refusing to wear the correct uniform - STAFF MEMBER+ |
 | Sexism |
 | Simping for a higher rank | 
 | Trolling or behaving unprofessionally on an alternate account |
-| Trolling, spamming, capitals abuse, or unprofessionalism - SHIFT LEADER+ |
-| Trolling/unprofessionalism at alliances or non-affiliated establishments - SHIFT LEADER+ | 
+| Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBER+ |
+| Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANK+ | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively |
-| Using :view on an SHR - HRs |
+| Using :view on an SHR - HIGH RANKS |
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
@@ -76,12 +76,12 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | ------ |
 | Crowding or refusing to disperse - contact an HR |
 | LRs or MRs hinting for a promotion - contact an HR | 
-| Questions that can be answered by HRs (training times, shift times, etc.) | 
+| Questions that can be answered by HRs | 
 | Trolling Guests/Customers - contact an MR |
 | Urgent in-game or group issues - contact an SHR+ | 
 | Disrespecting, arguing, or ignoring an HR - contact an SHR+ | 
 | Using :view on an SHR - for MRs - contact an SHR+ |
-| Asking for an appeal status - check the Islands Corp Staffing Support Discord | 
+| Asking for an appeal status - open a ticket | 
 | Abusing the group shout - contact an SHR through Direct Messages |
 | Free ranking - contact an SHR through Direct Messages |
 | Hosting an unofficial shift or training session - contact an SHR through Direct Messages |
