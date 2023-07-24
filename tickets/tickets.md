@@ -8,5 +8,5 @@ permalink: /tickets
 
 
 # Tickets
-Here, community members can find information on creating tickets in Island Corp's Discord server.
+Here, community members can find information on creating tickets in Vivid Airways' Discord server.
  
