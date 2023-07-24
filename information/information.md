@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Public
+title: Information
 nav_order: 8
 has_children: true
 permalink: /information 
