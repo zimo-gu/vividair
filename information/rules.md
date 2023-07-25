@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Discord Rules
-parent: information
+parent: Information
 nav_order: 1
 ---
 
