@@ -66,7 +66,7 @@ Tickets are used in Vivid Airways to report various punishments, request clarifi
 | Trolling, spamming, capitals abuse, or unprofessionalism - STAFF MEMBER+ |
 | Trolling/unprofessionalism at alliances or non-affiliated establishments - MIDDLE RANK+ | 
 | Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively |
-| Using :view on an SHR - HIGH RANKS |
+| Crashing the plane - STAFF MEMBER+ |
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
